@@ -1,0 +1,5 @@
+제 3장 정적 테스팅
+
+용어
+이상 사항(anomaly), 동적 테스팅(dynamic testing), 공식 리뷰(formal review), 비공식 리뷰(informal review),
+인스펙션(inspection), 리뷰(review), 정적 분석(static analysis), 정적 테스팅(static testing), 기술 리뷰(technical review), 워크쓰루(walkthrough)
