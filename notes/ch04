@@ -1,0 +1,48 @@
+제 4장 테스트 분석과 설계
+
+-용어-
+인수 조건(acceptance criteria), 인수 테스트 주도 개발(acceptance test-driven development), 블랙박스 테스트 기법(black-box test technique),
+경계값 분석(boundary value analysis), 분기 커버리지(branch coverage), 체크리스트 기반 테스팅(checklist-based testing),
+협업 기반 테스트 접근법(collaboration-based test approach),커버리지(coverage), 커버리지 항목(coverage item),
+결정 테이블 테스팅(decision table testing), 동등 분할(equivalence partitioning), 오류 추정(error guessing),
+경험 기반 테스트 기법(experience-based test technique), 탐색적 테스팅(exploratory testing), 상태 전이 테스팅(state transition testing),
+구문 커버리지(statement coverage), 테스트 기법(test technique), 화이트박스 테스트 기법(whitebox test technique)
+
+
+4.1 테스트 기법 개요
+테스트 기법은 테스트 분석과 테스트 설계 작업을 지원한다. 적은 수이지만, 충분한 테스트 케이스를 체계적인 방식으로 개발할 수 있도록 해준다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
