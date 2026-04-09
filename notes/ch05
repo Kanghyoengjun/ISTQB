@@ -1,0 +1,10 @@
+제 5장 테스트 활동 관리
+
+
+-용어-
+결함 관리(defect management), 결함 보고서(defect report), 시작 조건(entry criteria), 완료 조건(exit criteria),
+제품 리스크(product risk), 프로젝트 리스크(project risk), 리스크(risk), 리스크 분석(risk analysis), 리스크 평가(risk assessment),
+리스크 제어(risk control), 리스크 식별(risk identification), 리스크 수준(risk level), 리스크 관리(risk management), 리스크 완화(risk mitigation),
+리스크 모니터링(risk monitoring), 리스크 기반 테스팅(risk-based testing), 테스트 접근법(test approach), 테스트 완료 보고서(test completion report), 
+테스트 제어(test control), 테스트 모니터링(test monitoring), 테스트 계획서(test plan), 테스트 계획(test planning),
+테스트 진행 보고서(test progress report), 테스트 피라미드(test pyramid), 테스트 전략(test strategy), 테스팅 사분면(testing quadrants)
